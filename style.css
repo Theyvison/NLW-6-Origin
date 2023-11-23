@@ -456,6 +456,14 @@ nav.show div.icon-close {
   padding: 4rem 1rem;
 }
 
+.swiper-container {
+  position: relative;
+}
+
+.swiper-pagination {
+  position: absolute;
+}
+
 .swiper-pagination-bullet-active {
   background: var(--base-color);
 }
